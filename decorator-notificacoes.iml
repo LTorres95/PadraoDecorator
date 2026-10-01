@@ -2,8 +2,9 @@
 <module version="4">
   <component name="AdditionalModuleElements">
     <content url="file://$MODULE_DIR$" dumb="true">
-      <sourceFolder url="file://$MODULE_DIR$/padroes-projeto/main/java/decorator" isTestSource="false" />
-      <sourceFolder url="file://$MODULE_DIR$/padroes-projeto/test/java/decorator" isTestSource="true" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/main/java/decorator" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/src/test/java/decorator" type="java-test-resource" />
     </content>
   </component>
 </module>
